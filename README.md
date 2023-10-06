@@ -1,4 +1,4 @@
-## NOW 1.20.2!!!!
+## [THIS HAS BEEN MOVED TO HERE](https://github.com/Spellbook-Studios/Mods)
 # No Multiplayer Menu
 This mod makes it impossible to open the multiplayer screen, and whenever the client tries to open the screen, the main title screen is opened instead.
 
